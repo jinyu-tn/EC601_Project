@@ -54,5 +54,5 @@ Extra feature: Generate a pdf report about spending, give advice on control spen
 
 ## Our major components
 <center>
-![majorcomponents](https://github.com/jinyu-tn/EC601_Project/blob/master/major%20components.png)
+   ![majorcomponents](https://github.com/jinyu-tn/EC601_Project/blob/master/major%20components.png)
 <center>
