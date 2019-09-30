@@ -17,10 +17,10 @@
    It’s a personal finance app specially designed for customers who have an idol.
 
    Features:
-      * Choose income/spending, category (food, transport, entertainment…) type in amount and it will generate a record.
-      * Be able to check balance and all transactions.
-      * Generate pie chart to analyze customers’ consumption structure.
-      * Everytime typing in a transaction wakes a robot up, which can be set to talk like your idol. Once set, it imports all information about your idol. When you record one income/spending, it gives a comment like it’s great to eat healthily or don’t waste money on unnecessary stuff. Sometimes it replies with your idol’s picture or quotations.
+   * Choose income/spending, category (food, transport, entertainment…) type in amount and it will generate a record.
+   * Be able to check balance and all transactions.
+   * Generate pie chart to analyze customers’ consumption structure.
+   * Everytime typing in a transaction wakes a robot up, which can be set to talk like your idol. Once set, it imports all information about your idol. When you record one income/spending, it gives a comment like it’s great to eat healthily or don’t waste money on unnecessary stuff. Sometimes it replies with your idol’s picture or quotations.
 
 ## User stories:
       I, the customer, want to keep a habit of recording income and spendings without handwriting.
