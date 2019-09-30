@@ -8,15 +8,15 @@
 
 ### Mint:
    * Bring together all accounts and bills, manage finance from one dashboard 
-      * Automatically updates and categorizes your information.
-      * Connect to  many financial institutions, see where your money goes clearly.
-      * Make recommendations to save based on your lifestyle and goals.
+   * Automatically updates and categorizes your information.
+   * Connect to  many financial institutions, see where your money goes clearly.
+   * Make recommendations to save based on your lifestyle and goals.
 
 ### Daodao Bookkeeping:
 
-      It’s a personal finance app specially designed for customers who have an idol.
+   It’s a personal finance app specially designed for customers who have an idol.
 
-      Features:
+   Features:
       * Choose income/spending, category (food, transport, entertainment…) type in amount and it will generate a record.
       * Be able to check balance and all transactions.
       * Generate pie chart to analyze customers’ consumption structure.
