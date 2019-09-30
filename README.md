@@ -23,13 +23,13 @@
    * Everytime typing in a transaction wakes a robot up, which can be set to talk like your idol. Once set, it imports all information about your idol. When you record one income/spending, it gives a comment like it’s great to eat healthily or don’t waste money on unnecessary stuff. Sometimes it replies with your idol’s picture or quotations.
 
 ## User stories:
-    I, the customer, want to keep a habit of recording income and spendings without handwriting.
+   I, the customer, want to keep a habit of recording income and spendings without handwriting.
 
-    I, the customer, should be able to see my daily, monthly and yearly finance transactions.
+   I, the customer, should be able to see my daily, monthly and yearly finance transactions.
 
-    I, the customer, want to get advice on upgrading consumption pattern.
+   I, the customer, want to get advice on upgrading consumption pattern.
 
-    I, the customer, should be able to check how much I spent on  a specific category, like food, transport, clothing, etc.
+   I, the customer, should be able to check how much I spent on  a specific category, like food, transport, clothing, etc.
 
    I, the customer,  want to check my balance in this app any time.
 
