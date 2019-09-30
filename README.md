@@ -2,7 +2,8 @@
 
 ## Product review: 
 
-   Description: Our product is an Android application that can be used to record customers’ incomes and spendings, generate monthly charts and analyze consumption patterns.
+   Description: 
+   Our product is an Android application that can be used to record customers’ incomes and spendings, generate monthly charts and analyze consumption patterns.
 
 ## Competitors:
 
