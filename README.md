@@ -37,4 +37,12 @@ I, the customer, want to track on my spendings.
 
 I, the customer, should be able to make monthly budget and receive notification once it’s  going to be overspending.
 
-
+## MVP:
+For customers to record expenses, type in amount and choose categories.
+Get an idea of daily,monthly and yearly expenses include calendar view.
+Make a monthly budget, be notified once it’s over or close to over the budget.
+Make a chart about how much is spent on what category.
+Check how much customer spent on specific location.
+Notify customers at a setting time to keep a habit of recording everyday.
+Be able to login in with google account.
+Extra feature: Generate a pdf report about spending, give advice on control spending, get discount information of website and stores they purchase most.
