@@ -7,7 +7,7 @@
 ## Competitors:
 
 ### Mint:
-      * Bring together all accounts and bills, manage finance from one dashboard 
+   * Bring together all accounts and bills, manage finance from one dashboard 
       * Automatically updates and categorizes your information.
       * Connect to  many financial institutions, see where your money goes clearly.
       * Make recommendations to save based on your lifestyle and goals.
