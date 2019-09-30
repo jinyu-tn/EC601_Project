@@ -47,3 +47,9 @@
 * Be able to login in with google account.</br>
 
 Extra feature: Generate a pdf report about spending, give advice on control spending, get discount information of website and stores they purchase most.
+
+## System design
+![systemdesign]()
+
+## Our major components
+![majorcomponents]()
