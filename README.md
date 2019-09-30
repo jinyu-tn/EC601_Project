@@ -7,10 +7,10 @@ Description: Our product is an Android application that can be used to record cu
 ## Competitors:
 
 ### Mint:
-Bring together all accounts and bills, manage finance from one dashboard 
-Automatically updates and categorizes your information.
-Connect to  many financial institutions, see where your money goes clearly.
-Make recommendations to save based on your lifestyle and goals.
+*Bring together all accounts and bills, manage finance from one dashboard 
+*Automatically updates and categorizes your information.
+*Connect to  many financial institutions, see where your money goes clearly.
+*Make recommendations to save based on your lifestyle and goals.
 
 ### Daodao Bookkeeping:
 
