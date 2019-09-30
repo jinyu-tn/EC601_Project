@@ -51,6 +51,8 @@ Extra feature: Generate a pdf report about spending, give advice on control spen
 ## System design
 
 <div align=center><img src="https://github.com/jinyu-tn/EC601_Project/blob/master/system%20desing%20601.png"/></div>
+
+
 ## Our major components
 
 <div align=center><img src="https://github.com/jinyu-tn/EC601_Project/blob/master/major%20components.png/></div>
