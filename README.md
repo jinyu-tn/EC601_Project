@@ -44,5 +44,5 @@
 * Make a chart about how much is spent on what category.
 * Check how much customer spent on specific location.
 * Notify customers at a setting time to keep a habit of recording everyday.
-* Be able to login in with google account./</br>
+* Be able to login in with google account.</br>
 Extra feature: Generate a pdf report about spending, give advice on control spending, get discount information of website and stores they purchase most.
