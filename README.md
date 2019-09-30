@@ -49,10 +49,9 @@
 Extra feature: Generate a pdf report about spending, give advice on control spending, get discount information of website and stores they purchase most.
 
 ## System design
-<div style="text-align: center"><img src="https://github.com/jinyu-tn/EC601_Project/blob/master/system%20desing%20601.png"/>
-</div>
 
+<div align=center><img src="https://github.com/jinyu-tn/EC601_Project/blob/master/system%20desing%20601.png"/></div>
 ## Our major components
-<center>
+
    ![majorcomponents](https://github.com/jinyu-tn/EC601_Project/blob/master/major%20components.png)
-<center>
+
