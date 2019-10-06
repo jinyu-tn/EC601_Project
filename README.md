@@ -60,20 +60,20 @@ Extra feature: Generate a pdf report about spending, give advice on control spen
 ## Technologies:
 * Use java to develop app on Android Studio
 * Firebase
-   *What is Firebase
-   *Owned by Google, Firebase is a complete package of products that allows to build web and mobile apps, improve the app     quality and help your clients grow their business.
-   *Functions of Firebase
-   *1.irebase manages all data real-time in the database. So, the exchange of data to and from the database is easy and quick.  Hence, if you are looking to develop mobile apps such as live streaming, chat messaging, you can use Firebase.
-   *2.Firebase allow syncing the real-time data across all the devices- Android, iOS, and the web without refreshing the screen.
-   *3.Everything from databases, analytics to crashing reports are included in Firebase. So, the app developers can stay focused on improving the user experience
-   *Benefits of Firebase
-   *1.Create Application without backend server
-   *2.No need extra money spent for backend server
-   *3.Sync real time data in the application
-   *4.Quick display data in the application
-   *5.Faster than any backend web services
-   *6.Crash reports
-   *7.Cloud storage
-   *8.Test Lab
+   ## What is Firebase
+   * Owned by Google, Firebase is a complete package of products that allows to build web and mobile apps, improve the app     quality and help your clients grow their business.
+   * Functions of Firebase
+   * 1.irebase manages all data real-time in the database. So, the exchange of data to and from the database is easy and quick.  Hence, if you are looking to develop mobile apps such as live streaming, chat messaging, you can use Firebase.
+   * 2.Firebase allow syncing the real-time data across all the devices- Android, iOS, and the web without refreshing the screen.
+   * 3.Everything from databases, analytics to crashing reports are included in Firebase. So, the app developers can stay focused on improving the user experience
+   * Benefits of Firebase
+   * 1.Create Application without backend server
+   * 2.No need extra money spent for backend server
+   * 3.Sync real time data in the application
+   * 4.Quick display data in the application
+   * 5.Faster than any backend web services
+   * 6.Crash reports
+   * 7.Cloud storage
+   * 8.Test Lab
 
 
