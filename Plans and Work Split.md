@@ -1,4 +1,11 @@
 # Sprint 1:
+### Goal:
+  * Product Definition document:  Product Mission, Customer(s) and MVP user stories
+  * All system setup
+  * Industry (product and patent) review and analysis
+  * Initial decisions on implementation path
+  * Test programs
+### Status:
   Finished
 # Sprint 2:
   
