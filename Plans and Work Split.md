@@ -24,5 +24,5 @@ Zhenfei Yu: Record and Store the spending by items, dates and money.
 Jinyu Tian: Calculate my daily, monthly and yearly finance transactions.
 
 ## Oct.28-Nov.04:
-### Finish the function of check how much a user spent on  a specific category, like food, transport, clothing, etc.## Oct.21-Oct.28:
+### Finish the function of check how much a user spent on  a specific category, like food, transport, clothing, etc.## Oct.21-## Oct.28:
 ### Give advice on upgrading consumption pattern
