@@ -14,11 +14,15 @@
    * Finish the function of calculate daily,monthly and yearly finance trasactions.
   
 ### Work Split:
-Raj Vipani: Login anbd logout
+Raj Vipani: Login and logout.
    *  Code for the login, registration, connect with google account
    *  Login UI, Registration UI  
    *  Connection to database and store user account info there
 
 Zhenfei Yu: Record and Store the spending by items, dates and money.
 
-Jinyu Tian: Calculate my daily, monthly and yearly finance transactions
+Jinyu Tian: Calculate my daily, monthly and yearly finance transactions.
+
+## Oct.28-Nov.04:
+### Finish the function of check how much a user spent on  a specific category, like food, transport, clothing, etc.## Oct.21-Oct.28:
+### Give advice on upgrading consumption pattern
