@@ -32,12 +32,11 @@ Jinyu Tian: Calculate my daily, monthly and yearly finance transactions.
 
 ## Oct.28-Nov.04:
    * Finish the function of checking how much a user spent on  a specific category, like food, transport, clothing, etc.
-   * Finish the function of checking balance.
-   * Finish the function of tracking on spendings.
+   * （Make monthly budget and receive notification once it’s  going to be overspending.）
+   * UI and layout details
    * Prepare for the presentation of Sprint2.
 
 ## Nov.04-Nov.18:
    * Give advice on upgrading consumption pattern.
-   * Make monthly budget and receive notification once it’s  going to be overspending.
    * Give discount and coupon information.
    * Parents control function
