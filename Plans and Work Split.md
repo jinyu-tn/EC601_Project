@@ -40,3 +40,4 @@ Jinyu Tian: Calculate my daily, monthly and yearly finance transactions.
    * Give advice on upgrading consumption pattern.
    * Make monthly budget and receive notification once it’s  going to be overspending.
    * Give discount and coupon information.
+   * Parents control function
